@@ -186,6 +186,16 @@
           "Reps": "15,12,10"
         }
       }
+    },
+    "Sunday": {
+      "Muscle": "Stretching",
+      "Exe": {
+        "1": {
+          "Name": "Streching",
+          "Sets": "1",
+          "Reps": "30 sec"
+        }
+      }
     }
   }
 }

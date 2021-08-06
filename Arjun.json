@@ -1,0 +1,191 @@
+{
+  "Password": "ARVAEY2003",
+  "Name": "Arjun Varshney",
+  "Schedule": {
+    "Monday": {
+      "Muscle": "Shoulder",
+      "Exe": {
+        "1": {
+          "Name": "Barbell Rod",
+          "Sets": "3",
+          "Reps": "15,12,10"
+        },
+        "2": {
+          "Name": "Side Lateral Dumbbell",
+          "Sets": "3",
+          "Reps": "15,12,10"
+        },
+        "3": {
+          "Name": "Dumbbell Press",
+          "Sets": "3",
+          "Reps": "15,12,10"
+        },
+        "4": {
+          "Name": "Rear Delt Machine",
+          "Sets": "3",
+          "Reps": "15,12,10"
+        },
+        "5": {
+          "Name": "Up Right Machine",
+          "Sets": "3",
+          "Reps": "15,12,10"
+        }
+      }
+    },
+    "Tuesday": {
+      "Muscle": "Legs",
+      "Exe": {
+        "1": {
+          "Name": "Free Squat",
+          "Sets": "3",
+          "Reps": "15,12,10"
+        },
+        "2": {
+          "Name": "Weight Squat",
+          "Sets": "3",
+          "Reps": "15,12,10"
+        },
+        "3": {
+          "Name": "Leg Extension",
+          "Sets": "3",
+          "Reps": "15,12,10"
+        },
+        "4": {
+          "Name": "Leg Press",
+          "Sets": "3",
+          "Reps": "15,12,10"
+        },
+        "5": {
+          "Name": "Leg Curl",
+          "Sets": "3",
+          "Reps": "15,12,10"
+        },
+        "6": {
+          "Name": "Calf",
+          "Sets": "3",
+          "Reps": "15,12,10"
+        }
+      }
+    },
+    "Wednesday": {
+      "Muscle": "Chest",
+      "Exe": {
+        "1": {
+          "Name": "Chest Press Machine",
+          "Sets": "3",
+          "Reps": "15,12,10"
+        },
+        "2": {
+          "Name": "Pec Deck Fly",
+          "Sets": "3",
+          "Reps": "15,12,10"
+        },
+        "3": {
+          "Name": "Flat Bench Road",
+          "Sets": "3",
+          "Reps": "15,12,10"
+        },
+        "4": {
+          "Name": "Incline Bench Dumbbell Fly",
+          "Sets": "3",
+          "Reps": "15,12,10"
+        },
+        "5": {
+          "Name": "Pullover",
+          "Sets": "3",
+          "Reps": "15,12,10"
+        }
+      }
+    },
+    "Thursday": {
+      "Muscle": "Triceps",
+      "Exe": {
+        "1": {
+          "Name": "Both Arm Dumbbell",
+          "Sets": "3",
+          "Reps": "15,12,10"
+        },
+        "2": {
+          "Name": "Pull Down Machine",
+          "Sets": "3",
+          "Reps": "15,12,10"
+        },
+        "3": {
+          "Name": "Back Dips",
+          "Sets": "3",
+          "Reps": "15,12,10"
+        },
+        "4": {
+          "Name": "Single Arm Dumbbell",
+          "Sets": "3",
+          "Reps": "15,12,10"
+        },
+        "5": {
+          "Name": "Machine Over Head",
+          "Sets": "3",
+          "Reps": "15,12,10"
+        }
+      }
+    },
+    "Friday": {
+      "Muscle": "Back",
+      "Exe": {
+        "1": {
+          "Name": "Pully Front",
+          "Sets": "3",
+          "Reps": "15,12,10"
+        },
+        "2": {
+          "Name": "Rowing Machine",
+          "Sets": "3",
+          "Reps": "15,12,10"
+        },
+        "3": {
+          "Name": "Pully Close Grip",
+          "Sets": "3",
+          "Reps": "15,12,10"
+        },
+        "4": {
+          "Name": "Rowing Dumbbell",
+          "Sets": "3",
+          "Reps": "15,12,10"
+        },
+        "5": {
+          "Name": "Pully Back",
+          "Sets": "3",
+          "Reps": "15,12,10"
+        }
+      }
+    },
+    "Saturday": {
+      "Muscle": "Bicep",
+      "Exe": {
+        "1": {
+          "Name": "Barbell Curl",
+          "Sets": "3",
+          "Reps": "15,12,10"
+        },
+        "2": {
+          "Name": "Alternate Dumbbell",
+          "Sets": "3",
+          "Reps": "15,12,10"
+        },
+        "3": {
+          "Name": "Preacher Curl",
+          "Sets": "3",
+          "Reps": "15,12,10"
+        },
+        "4": {
+          "Name": "Hammer Dumbbell",
+          "Sets": "3",
+          "Reps": "15,12,10"
+        },
+        "5": {
+          "Name": "Cable Machine",
+          "Sets": "3",
+          "Reps": "15,12,10"
+        }
+      }
+    }
+  }
+}
